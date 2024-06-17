@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured on jacks portfolio</title>
+    <link>//localhost:1313/tags/featured/</link>
+    <description>Recent content in Featured on jacks portfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AngelShot</title>
+      <link>//localhost:1313/projects/angelshot/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/angelshot/</guid>
+      <description>Making sketchy situations &amp;amp; quick escapes more safe with realistic AI phone calls. Grand Prize - Third Place winner at WildHacks 2024.</description>
+    </item>
+    <item>
+      <title>Intervallic</title>
+      <link>//localhost:1313/projects/intervallic/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/intervallic/</guid>
+      <description>A video game for music students designed to reduce burnout and make practice fun. Now available on Steam!</description>
+    </item>
+    <item>
+      <title>VastWaste &amp; Mind The Debris</title>
+      <link>//localhost:1313/projects/vastwaste/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/vastwaste/</guid>
+      <description>A VR based art installation showcasing the detrimental effects of space and marine debris. Featured at ISEA2022, SIGGRAPH, and Piksel Festival!</description>
+    </item>
+    <item>
+      <title>WedBars</title>
+      <link>//localhost:1313/projects/wedbars/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/wedbars/</guid>
+      <description>A version of the Hypixel server&amp;rsquo;s popular Bedwars gamemode, recreated from scratch.</description>
+    </item>
+    <item>
+      <title>Northwestern Minecraft Server</title>
+      <link>//localhost:1313/projects/minecraft-server/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/minecraft-server/</guid>
+      <description>A multi-year Minecraft survival server tailored for the Northwestern community.</description>
+    </item>
+    <item>
+      <title>The Abbey: A Fallout 2 Mod</title>
+      <link>//localhost:1313/projects/abbey/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/abbey/</guid>
+      <description>A mod that attempts to recreate cut content from Fallout 2. Based heavily on the book A Cancticle for Leibowitz by Walter M. Miller Jr.</description>
+    </item>
+  </channel>
+</rss>

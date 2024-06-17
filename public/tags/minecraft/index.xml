@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minecraft on jacks portfolio</title>
+    <link>//localhost:1313/tags/minecraft/</link>
+    <description>Recent content in Minecraft on jacks portfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WedBars</title>
+      <link>//localhost:1313/projects/wedbars/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/wedbars/</guid>
+      <description>A version of the Hypixel server&amp;rsquo;s popular Bedwars gamemode, recreated from scratch.</description>
+    </item>
+    <item>
+      <title>Northwestern Minecraft Server</title>
+      <link>//localhost:1313/projects/minecraft-server/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/minecraft-server/</guid>
+      <description>A multi-year Minecraft survival server tailored for the Northwestern community.</description>
+    </item>
+  </channel>
+</rss>

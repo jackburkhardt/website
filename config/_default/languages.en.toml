@@ -15,7 +15,7 @@ title = "jacks portfolio"
 
  [author]
    name = "Jack Burkhardt"
-   image = "img/blowfish_logo.png"
+   image = "img/homepage_headshot.webp"
    headline = "Software developer, game developer, and doer. This website is a collection of my work."
    bio = "Software developer with experience in game development, systems administration, desktop app development, cloud services, and people-managing."
    links = [

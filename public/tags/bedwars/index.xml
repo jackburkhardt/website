@@ -4,16 +4,19 @@
     <title>Bedwars on jacks portfolio</title>
     <link>//localhost:1313/tags/bedwars/</link>
     <description>Recent content in Bedwars on jacks portfolio</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/bedwars/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Jack Burkhardt</copyright>
+    <lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/bedwars/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WedBars</title>
       <link>//localhost:1313/projects/wedbars/</link>
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/projects/wedbars/</guid>
-      <description>A version of the Hypixel server&amp;rsquo;s popular Bedwars gamemode, recreated from scratch.</description>
+      <description>A version of the Hypixel server&amp;rsquo;s popular Bedwars gamemode, recreated from scratch and updated to use new Minecraft features.</description>
+      
     </item>
+    
   </channel>
 </rss>

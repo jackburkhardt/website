@@ -4,23 +4,29 @@
     <title>Minecraft on jacks portfolio</title>
     <link>//localhost:1313/tags/minecraft/</link>
     <description>Recent content in Minecraft on jacks portfolio</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Jack Burkhardt</copyright>
+    <lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/minecraft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WedBars</title>
       <link>//localhost:1313/projects/wedbars/</link>
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/projects/wedbars/</guid>
-      <description>A version of the Hypixel server&amp;rsquo;s popular Bedwars gamemode, recreated from scratch.</description>
+      <description>A version of the Hypixel server&amp;rsquo;s popular Bedwars gamemode, recreated from scratch and updated to use new Minecraft features.</description>
+      
     </item>
+    
     <item>
       <title>Northwestern Minecraft Server</title>
       <link>//localhost:1313/projects/minecraft-server/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/projects/minecraft-server/</guid>
       <description>A multi-year Minecraft survival server tailored for the Northwestern community.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/minecraft-server/featured-endportal-collin.png" />
     </item>
+    
   </channel>
 </rss>

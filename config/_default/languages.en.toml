@@ -16,11 +16,10 @@ title = "jacks portfolio"
  [author]
    name = "Jack Burkhardt"
    image = "img/blowfish_logo.png"
-   headline = "I'm only human"
-   bio = "A little bit about you"
+   headline = "Software developer, game developer, and doer. This website is a collection of my work."
+   bio = "Software developer with experience in game development, systems administration, desktop app development, cloud services, and people-managing."
    links = [
      { email = "mailto:hello@jackburkhardt.com" },
-     { link = "https://link-to-some-website.com/" },
      { linkedin = "https://linkedin.com/in/jack-burkhardt" },
      { github = "https://github.com/jackburkhardt" },
      { itch-io = "https://jackburkhardt.itch.io" },

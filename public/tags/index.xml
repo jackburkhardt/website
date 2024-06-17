@@ -4,184 +4,269 @@
     <title>Tags on jacks portfolio</title>
     <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on jacks portfolio</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Jack Burkhardt</copyright>
+    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aws</title>
       <link>//localhost:1313/tags/aws/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/aws/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Featured</title>
       <link>//localhost:1313/tags/featured/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/featured/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Hackathon</title>
       <link>//localhost:1313/tags/hackathon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/hackathon/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Openai</title>
       <link>//localhost:1313/tags/openai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/openai/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Projects</title>
       <link>//localhost:1313/tags/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/projects/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>React</title>
       <link>//localhost:1313/tags/react/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/react/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Typescript</title>
       <link>//localhost:1313/tags/typescript/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/typescript/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Csharp</title>
       <link>//localhost:1313/tags/csharp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/csharp/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Game Design</title>
       <link>//localhost:1313/tags/game-design/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/game-design/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Overture</title>
       <link>//localhost:1313/tags/overture/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/overture/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Unity</title>
       <link>//localhost:1313/tags/unity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/unity/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Rpg</title>
       <link>//localhost:1313/tags/rpg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/rpg/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Northwestern</title>
       <link>//localhost:1313/tags/northwestern/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/northwestern/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Vr</title>
       <link>//localhost:1313/tags/vr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/vr/</guid>
       <description></description>
+      
     </item>
-    <item>
-      <title>Bed Wars</title>
-      <link>//localhost:1313/tags/bed-wars/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/bed-wars/</guid>
-      <description></description>
-    </item>
+    
     <item>
       <title>Bedwars</title>
       <link>//localhost:1313/tags/bedwars/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/bedwars/</guid>
       <description></description>
+      
     </item>
+    
+    <item>
+      <title>Java</title>
+      <link>//localhost:1313/tags/java/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/java/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Jenkins</title>
+      <link>//localhost:1313/tags/jenkins/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/jenkins/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Minecraft</title>
       <link>//localhost:1313/tags/minecraft/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/minecraft/</guid>
       <description></description>
+      
     </item>
+    
+    <item>
+      <title>Mysql</title>
+      <link>//localhost:1313/tags/mysql/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/mysql/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Plugin</title>
       <link>//localhost:1313/tags/plugin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/plugin/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Spigot</title>
       <link>//localhost:1313/tags/spigot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/spigot/</guid>
       <description></description>
+      
     </item>
-    <item>
-      <title>Wedbars</title>
-      <link>//localhost:1313/tags/wedbars/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/wedbars/</guid>
-      <description></description>
-    </item>
+    
     <item>
       <title>Server</title>
       <link>//localhost:1313/tags/server/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/server/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Bis Mapper</title>
       <link>//localhost:1313/tags/bis-mapper/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/bis-mapper/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Fallout</title>
       <link>//localhost:1313/tags/fallout/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/fallout/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Fallout 2</title>
       <link>//localhost:1313/tags/fallout-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/fallout-2/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Modding</title>
       <link>//localhost:1313/tags/modding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
       <guid>//localhost:1313/tags/modding/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

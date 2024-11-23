@@ -1,0 +1,50 @@
+{{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
+<div class="home-container">
+    <section class="profile-heading">
+        {{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
+        <div class="flex author">
+          {{ with .Site.Author.image }}
+            {{ $authorImage := "" }}
+            {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+              {{ $authorImage = resources.GetRemote . }}
+            {{ else }}
+              {{ $authorImage = resources.Get . }}
+            {{ end }}
+            {{ if $authorImage }}
+              {{ if not $disableImageOptimization }}
+                {{ $authorImage = $authorImage.Fill "192x192" }}
+              {{ end }}
+              <img class="!mt-0 !mb-0 h-96 w-96 rounded-full ltr:mr-4 rtl:ml-4" width="192" height="192"
+              alt="{{ $.Site.Author.name | default " Author" }}" src="{{ $authorImage.RelPermalink }}" />
+            {{ else }}
+              {{ $authorImage := resources.GetRemote . }}
+              {{ if not $disableImageOptimization }}
+                {{ $authorImage = $authorImage.Fill "192x192" }}
+              {{ end }}
+              <img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4" width="96" height="96"
+              alt="{{ $.Site.Author.name | default " Author" }}" src="{{ $authorImage.RelPermalink }}" />
+            {{ end }}
+          {{ end }}
+          <div class="place-self-center">
+            {{ with .Site.Author.name | markdownify }}
+            <div class="font-semibold leading-6 text-2xl dark:text-neutral-300">
+              {{ . }}
+            </div>
+            {{ end }}
+            {{ with .Site.Author.bio | markdownify }}
+            <div class="text-xl text-neutral-700 dark:text-neutral-400">{{ . }}</div>
+            {{ end }}
+            <div class="text-2xl sm:text-lg">{{ partialCached "author-links.html" . }}</div>
+          </div>
+        </div>
+    </section>
+    <section class="page-advert">
+        <div>
+            <img src="/img/homepage_headshot.webp" height="96" width="96">
+            Team Fortress 2
+        </div>
+    </section>
+    <footer class="home-footer">
+        © 2024 Jack Burkhardt. Powered by <a href="https://gohugo.io">Hugo</a>. All game content property of their respective owners.
+    </footer>
+</div>

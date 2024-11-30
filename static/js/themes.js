@@ -1,10 +1,12 @@
-const themes = {
-    "fallout": {
+const themes = [
+    {
+        name: "fallout",
         gamesImg: "",
         gamesAlt: "",
         toolsImg: "",
         toolsAlt: "",
         resumeImg: "",
+        resumeAlt: "",
         pubImg: "",
         pubAlt: "",
         blogImg: "",
@@ -12,13 +14,16 @@ const themes = {
         bgImg: "url",
         bgStyle: "",
         font: "",
+        fontSize: "24px",
     },
-    "disco": {
+    {
+        name: "tf2",
         gamesImg: "",
         gamesAlt: "",
         toolsImg: "",
         toolsAlt: "",
         resumeImg: "",
+        resumeAlt: "",
         pubImg: "",
         pubAlt: "",
         blogImg: "",
@@ -26,13 +31,16 @@ const themes = {
         bgImg: "url",
         bgStyle: "",
         font: "",
+        fontSize: "24px",
     },
-    "minecraft": {
+    {
+        name: "disco",
         gamesImg: "",
         gamesAlt: "",
         toolsImg: "",
         toolsAlt: "",
         resumeImg: "",
+        resumeAlt: "",
         pubImg: "",
         pubAlt: "",
         blogImg: "",
@@ -40,13 +48,16 @@ const themes = {
         bgImg: "url",
         bgStyle: "",
         font: "",
+        fontSize: "24px",
     },
-    "tf2": {
+    {
+        name: "minecraft",
         gamesImg: "",
         gamesAlt: "",
         toolsImg: "",
         toolsAlt: "",
         resumeImg: "",
+        resumeAlt: "",
         pubImg: "",
         pubAlt: "",
         blogImg: "",
@@ -54,5 +65,6 @@ const themes = {
         bgImg: "url",
         bgStyle: "",
         font: "",
+        fontSize: "24px",
     }
-}
+]

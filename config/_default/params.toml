@@ -36,7 +36,7 @@ smartTOC = true
   showScrollToTop = true
 
 [homepage]
-  layout = "custom" # valid options: page, profile, hero, card, background, custom
+  layout = "background" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 10
@@ -44,7 +44,7 @@ smartTOC = true
   showMoreLinkDest = "/projects"
   cardView = true
   cardViewScreenWidth = true
-  layoutBackgroundBlur = false # only used when layout equals background
+  layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = true

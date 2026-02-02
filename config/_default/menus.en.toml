@@ -12,17 +12,17 @@
 
 [[main]]
   name = "Projects"
-  pageRef = "tags/projects"
+  pageRef = "/tags/projects"
   weight = 10
 
 [[main]]
   name = "Resume"
-  url = "resume/jack_burkhardt_resume_gd_jan26.pdf"
+  url = "/resume/jack_burkhardt_resume_gd_jan26.pdf"
   weight = 20
 
 [[main]]
   name = "About Me"
-  pageRef = "about"
+  pageRef = "/about"
   weight = 30
 
 [[main]]
